@@ -11,7 +11,7 @@ var rope1,rope2,rope3,rope4,rope5;
 
 
 function setup(){
-    createCanvas(800,450);
+    createCanvas(1000,650);
     engine = Engine.create();
     world = engine.world;
 
